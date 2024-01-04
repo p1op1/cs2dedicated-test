@@ -22,3 +22,10 @@ apt install curl wget file tar bzip2 gzip unzip bsdmainutils python3 util-linux 
 ```./cs2server install```
 
 ```./cs2server start```
+
+================================================================
+
+# Цели и задачи
+
+1. Наладить работу 1-го серверного приложения
+   - Изк
